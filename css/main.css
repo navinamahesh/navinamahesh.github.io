@@ -67,10 +67,10 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #FF6B6B;
+    color: #c19dd4;
 }
 a:hover {
-    color: #ff9a9a;
+    color: #c19dd4;
     text-decoration: underline;
 }
 h1, h2 {
@@ -199,7 +199,7 @@ ul.posts li {
   width: 15px;
 }
 .timeline-marker:before {
-  background: #FF6B6B;
+  background: #c19dd4;
   border: 3px solid transparent;
   border-radius: 100%;
   content: "";
@@ -227,7 +227,7 @@ ul.posts li {
 
 .timeline-item:not(.period):hover .timeline-marker:before {
   background: transparent;
-  border: 3px solid #FF6B6B;
+  border: 3px solid #c19dd4;
 }
 
 /*----- TIMELINE CONTENT -----*/
@@ -379,8 +379,8 @@ ul.posts li {
 ----------------------------------------------*/
 .marker-outline .timeline-marker:before {
   background: transparent;
-  border-color: #FF6B6B;
+  border-color: #c19dd4;
 }
 .marker-outline .timeline-item:hover .timeline-marker:before {
-  background: #FF6B6B;
+  background: #c19dd4;
 }
