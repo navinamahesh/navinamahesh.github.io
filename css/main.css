@@ -232,7 +232,7 @@ ul.posts li {
 
 /*----- TIMELINE CONTENT -----*/
 .timeline-content {
-  padding-bottom: 40px;
+  padding-bottom: 20px;
   text-align: left;
 }
 .timeline-content p:last-child {
